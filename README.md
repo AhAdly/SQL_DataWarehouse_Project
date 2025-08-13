@@ -65,4 +65,4 @@ This project is licensed under the MIT License. You are free to use, modify, and
 
 ## 🌟 About Me
 
-Hi there! I'm Ahmed Hassan. I’m a MSc degree data science graduate on a mission to master Data wrangling and analytics!
+Hi there! I'm Ahmed Hassan. I’m a MSc degree data science graduate with experience in multiple sectors across Telecommunications, manufacturing and satellites on a mission to master Data wrangling and analytics!
